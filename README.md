@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Sahithya! 👋
 
-<!--
-**SahithyaNallamothula/SahithyaNallamothula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Engineering Student  
+💻 Passionate about solving problems and building impactful tech solutions  
+☕ <h3>Turning coffee into code, bugs into features</h3>  
+🌱 Currently exploring Full Stack Development and Python-based projects
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, C, JavaScript  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Tools & Platforms:** GitHub, VS Code, Replit  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Current Focus
+- Building full-stack web applications  
+- Enhancing my DSA and algorithmic thinking  
+- Learning more about backend and APIs  
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahithyanallamothula/)  
+- 📧 Email: sahithya12092004@gmail.com  
+
+
+---
+
+> "Learning never exhausts the mind." – Leonardo da Vinci
+
+Thanks for visiting! 😊
